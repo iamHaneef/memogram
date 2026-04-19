@@ -1,2 +1,19 @@
-# memogram
-This project serves as an excellent example of integrating APIs into a web application, making it perfect for developers looking to enhance their skills in frontend development and API handling. Enjoy generating memes!
+# Meme Generator
+
+A simple web application that fetches and displays random memes using a public API.
+
+---
+
+## Project Structure
+
+```bash
+memogram/
+│
+├── index.html
+├── script.js
+├── style.css
+│
+├── assets/
+│   └── (images if any)
+│
+└── README.md
