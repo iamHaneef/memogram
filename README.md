@@ -39,7 +39,6 @@ meme-generator/
 ```
 
 ---
-
 ## 🚀 How to Run
 
-> Open `index.html` in any web browser.
+> Open `index.html` in any modern web browser.
