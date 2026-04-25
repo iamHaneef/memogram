@@ -1,13 +1,32 @@
 # Meme Generator
 
-A simple web application that fetches and displays random memes using a public API.
+## 📌 Overview
+
+A simple web application that fetches and displays random memes using a public API.  
+This project demonstrates API integration and dynamic content rendering using JavaScript.
 
 ---
 
-## Project Structure
+## ⚡ Features
+
+- Fetch random memes from a public API  
+- Dynamic image rendering  
+- Simple and interactive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
 
 ```bash
-memogram/
+meme-generator/
 │
 ├── index.html
 ├── script.js
@@ -17,3 +36,10 @@ memogram/
 │   └── (images if any)
 │
 └── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Open `index.html` in any web browser.
